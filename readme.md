@@ -16,6 +16,6 @@ The honest time to complete this project is around 40 mins.
 
 ![Screen](./assets/Screen.jpg)
 
-## Here is the links for the project
+## Here is the link for the project
 
-
+[Netlify Link..](https://crypto-landing-page-proj05.netlify.app/)
